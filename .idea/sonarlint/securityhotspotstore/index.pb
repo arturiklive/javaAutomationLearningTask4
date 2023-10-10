@@ -13,3 +13,6 @@ v
 Fsrc/main/java/com/epam/training/arturs_ziemelis/pages/YopMailPage.java,8\9\8907ce5968b7eaa91088585dd5e64b8774ff82ee
 z
 Jsrc/main/java/com/epam/training/arturs_ziemelis/drivers/DriverManager.java,b\5\b5d752f41f270af6a8a044b7b425bfa56ececc8d
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
