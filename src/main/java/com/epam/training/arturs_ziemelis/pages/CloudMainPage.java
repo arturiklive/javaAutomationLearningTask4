@@ -26,6 +26,7 @@ public class CloudMainPage {
         driver.findElement(COOKIES_AGREE_BUTTON).click();
         return this;
     }
+
     public void searchAndProceed(String searchString) {
         WebDriverUtils.waitForElementToBeVisible(driver, SEARCH_GOOGLE_ICON, 10);
         driver.findElement(SEARCH_GOOGLE_ICON).click();

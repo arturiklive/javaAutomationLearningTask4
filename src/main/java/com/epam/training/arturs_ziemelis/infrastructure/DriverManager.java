@@ -1,4 +1,4 @@
-package com.epam.training.arturs_ziemelis.drivers;
+package com.epam.training.arturs_ziemelis.infrastructure;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;

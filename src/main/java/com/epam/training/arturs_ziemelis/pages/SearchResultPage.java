@@ -11,6 +11,7 @@ public class SearchResultPage {
     public SearchResultPage(WebDriver driver) {
         this.driver = driver;
     }
+
     public void clickOnFirstSearchResult() {
         WebDriverUtils.waitForElementToBeVisible(driver, FIRST_ELEMENT_IN_SEARCH_RESULT, 10);
         driver.findElement(FIRST_ELEMENT_IN_SEARCH_RESULT).click();

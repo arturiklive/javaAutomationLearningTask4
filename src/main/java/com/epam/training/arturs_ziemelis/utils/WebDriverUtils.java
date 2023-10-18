@@ -20,6 +20,7 @@ public class WebDriverUtils {
         JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
         jsExecutor.executeScript("arguments[0].scrollTop += arguments[1];", scrollableElement, pixelsToScroll);
     }
+
     public static void scrollUntilElementVisible(WebDriver driver, WebElement dropdown, By elementLocator) {
         boolean isElementVisible = !driver.findElements(elementLocator).isEmpty();
         while (!isElementVisible) {
@@ -27,6 +28,7 @@ public class WebDriverUtils {
             isElementVisible = !driver.findElements(elementLocator).isEmpty();
         }
     }
+
     public static void scrollToElement(WebDriver driver, WebElement element) {
         JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
         jsExecutor.executeScript("arguments[0].scrollIntoView(true);", element);

@@ -1,0 +1,22 @@
+<suite name="Smoke Test Suite">
+    <test name="TestWithFrankfurt">
+        <parameter name="configFile" value="frankfurt"/>
+        <classes>
+            <class name="com.epam.training.arturs_ziemelis.SmokeCloudTest"/>
+        </classes>
+    </test>
+
+    <test name="TestWithIowa">
+        <parameter name="configFile" value="iowa"/>
+        <classes>
+            <class name="com.epam.training.arturs_ziemelis.SmokeCloudTest"/>
+        </classes>
+    </test>
+
+    <test name="TestWithMontreal">
+        <parameter name="configFile" value="montreal"/>
+        <classes>
+            <class name="com.epam.training.arturs_ziemelis.SmokeCloudTest"/>
+        </classes>
+    </test>
+</suite>

@@ -5,9 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8400888b-42da-4335-9c93-84b3a43ecdce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/regression-test-suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smoke-test-suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/arturs_ziemelis/helpers/CalculatorPageHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/arturs_ziemelis/helpers/YopMailPageHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/arturs_ziemelis/infrastructure/ConfigManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/arturs_ziemelis/SmokeCloudTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/arturs_ziemelis/infrastructure/TakeScreenshotHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/arturs_ziemelis/infrastructure/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/frankfurt.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/iowa.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/montreal.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/27aa00908c57af9c24c9b2d85128ba4f822fb115" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5d752f41f270af6a8a044b7b425bfa56ececc8d" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/7/27aa00908c57af9c24c9b2d85128ba4f822fb115" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/5/b5d752f41f270af6a8a044b7b425bfa56ececc8d" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/training/arturs_ziemelis/drivers/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/arturs_ziemelis/infrastructure/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/training/arturs_ziemelis/pages/CalculatorPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/arturs_ziemelis/pages/CalculatorPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/training/arturs_ziemelis/pages/CloudMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/arturs_ziemelis/pages/CloudMainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/training/arturs_ziemelis/pages/SearchResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/arturs_ziemelis/pages/SearchResultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/training/arturs_ziemelis/pages/YopMailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/arturs_ziemelis/pages/YopMailPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/training/arturs_ziemelis/utils/WebDriverUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/arturs_ziemelis/utils/WebDriverUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/training/arturs_ziemelis/CloudTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/arturs_ziemelis/RegressionCloudTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +69,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/artur/IdeaProjects/javaAutomationLearningTask3/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/artur/IdeaProjects/javaAutomationLearningTask3&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -52,7 +78,12 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\artur\IdeaProjects\javaAutomationLearningTask3" />
+      <recent name="C:\Users\artur\IdeaProjects\javaAutomationLearningTask3\src\test\resources" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.epam.training.arturs_ziemelis" />
       <recent name="com.epam.training.arturs_ziemelis.pages" />
     </key>
   </component>
